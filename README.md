@@ -69,18 +69,6 @@ flowchart TD
 
 # 📊 Charts
 
-### 📈 Member Distribution
-```mermaid
-pie showData
-    title CODE VIVEKS Team Distribution
-    "Juniors" : 25
-    "Competitive Programming" : 15
-    "Web Development" : 15
-    "AI/ML" : 10
-    "DSA" : 10
-    "IoT" : 5
-```
-
 ### 📉 Skill Focus
 ```mermaid
 pie
